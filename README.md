@@ -13,4 +13,6 @@ Here I document solutions to problems that I solved.
 
 [5. implement throttle() with leading & trailing option](/Code/5.implement-throttle-with-leading-and-trailing-option.md)
 
+[6. implement basic debounce()](/Code/6.implement-basic-debounce.md)
+
 [79. convert snake_case to camelCase](/Code/79.convert-snake_case-to-camelCase.md)
