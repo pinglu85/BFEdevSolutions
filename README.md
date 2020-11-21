@@ -15,4 +15,6 @@ Here I document solutions to problems that I solved.
 
 [6. implement basic debounce()](/Code/6.implement-basic-debounce.md)
 
+[23. create a sum()](/Code/23.create-a-sum.md)
+
 [79. convert snake_case to camelCase](/Code/79.convert-snake_case-to-camelCase.md)
