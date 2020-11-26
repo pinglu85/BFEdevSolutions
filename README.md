@@ -19,4 +19,6 @@ Here I document solutions to problems that I solved.
 
 [39. implement range()](/Code/39.implement-range.md)
 
+[66. remove duplicates from an array](/Code/66.remove-duplicates-from-an-array.md)
+
 [79. convert snake_case to camelCase](/Code/79.convert-snake_case-to-camelCase.md)
