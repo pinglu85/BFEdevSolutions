@@ -17,6 +17,8 @@ Here I document solutions to problems that I solved.
 
 [7. implement debounce() with leading & trailing option](/Code/7.implement-debounce-with-leading-and-trailing-option.md)
 
+[8. can you shuffle() an array?](/Code/8.can-you-shuffle-an-array.md)
+
 [23. create a sum()](/Code/23.create-a-sum.md)
 
 [39. implement range()](/Code/39.implement-range.md)
