@@ -19,6 +19,8 @@ Here I document solutions to problems that I solved.
 
 [8. can you shuffle() an array?](/Code/8.can-you-shuffle-an-array.md)
 
+[9. decode message](/Code/9.decode-message.md)
+
 [23. create a sum()](/Code/23.create-a-sum.md)
 
 [39. implement range()](/Code/39.implement-range.md)
