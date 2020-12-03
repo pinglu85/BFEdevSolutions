@@ -21,6 +21,8 @@ Here I document solutions to problems that I solved.
 
 [9. decode message](/Code/9.decode-message.md)
 
+[10. first bad version](/Code/10.first-bad-version.md)
+
 [23. create a sum()](/Code/23.create-a-sum.md)
 
 [39. implement range()](/Code/39.implement-range.md)
