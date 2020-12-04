@@ -23,6 +23,8 @@ Here I document solutions to problems that I solved.
 
 [10. first bad version](/Code/10.first-bad-version.md)
 
+[11. what is Composition? create a pipe()](/Code/11.what-is-Composition-create-a-pipe.md)
+
 [23. create a sum()](/Code/23.create-a-sum.md)
 
 [39. implement range()](/Code/39.implement-range.md)
