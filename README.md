@@ -32,3 +32,5 @@ Here I document solutions to problems that I solved.
 [66. remove duplicates from an array](/Code/66.remove-duplicates-from-an-array.md)
 
 [79. convert snake_case to camelCase](/Code/79.convert-snake_case-to-camelCase.md)
+
+[96. count "1" in binary form](/Code/96.count-1-in-binary-form.md)
