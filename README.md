@@ -25,6 +25,8 @@ Here I document solutions to problems that I solved.
 
 [11. what is Composition? create a pipe()](/Code/11.what-is-Composition-create-a-pipe.md)
 
+[12. implement Immutability helper](/Code/12.implement-Immutability-helper.md)
+
 [23. create a sum()](/Code/23.create-a-sum.md)
 
 [39. implement range()](/Code/39.implement-range.md)
