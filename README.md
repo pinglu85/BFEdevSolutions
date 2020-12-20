@@ -27,6 +27,8 @@ Here I document solutions to problems that I solved.
 
 [12. implement Immutability helper](/Code/12.implement-Immutability-helper.md)
 
+[13. Implement a Queue by using Stack](/Code/13.Implement-a-Queue-by-using-Stack.md)
+
 [23. create a sum()](/Code/23.create-a-sum.md)
 
 [39. implement range()](/Code/39.implement-range.md)
