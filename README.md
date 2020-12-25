@@ -29,6 +29,8 @@ Here I document solutions to problems that I solved.
 
 [13. Implement a Queue by using Stack](/Code/13.Implement-a-Queue-by-using-Stack.md)
 
+[14. Implement a general memoization function - `memo()`](/Code/14.Implement-a-general-memoization-function.md)
+
 [23. create a sum()](/Code/23.create-a-sum.md)
 
 [39. implement range()](/Code/39.implement-range.md)
