@@ -31,6 +31,8 @@ Here I document solutions to problems that I solved.
 
 [14. Implement a general memoization function - `memo()`](/Code/14.Implement-a-general-memoization-function.md)
 
+[15. implement a simple DOM wrapper to support method chaining like jQuery](/Code/15.implement-a-simple-DOM-wrapper-to-support-method-chaining-like-jQuery.md)
+
 [23. create a sum()](/Code/23.create-a-sum.md)
 
 [39. implement range()](/Code/39.implement-range.md)
