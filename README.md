@@ -33,6 +33,8 @@ Here I document solutions to problems that I solved.
 
 [15. implement a simple DOM wrapper to support method chaining like jQuery](/Code/15.implement-a-simple-DOM-wrapper-to-support-method-chaining-like-jQuery.md)
 
+[16. create an Event Emitter](/Code/16.create-an-Event-Emitter.md)
+
 [23. create a sum()](/Code/23.create-a-sum.md)
 
 [39. implement range()](/Code/39.implement-range.md)
