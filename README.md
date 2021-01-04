@@ -37,6 +37,8 @@ Here I document solutions to problems that I solved.
 
 [17. create a simple store for DOM element](/Code/17.create-a-simple-store-for-DOM-element.md)
 
+[18. improve a function](/Code/18.improve-a-function.md)
+
 [23. create a sum()](/Code/23.create-a-sum.md)
 
 [39. implement range()](/Code/39.implement-range.md)
