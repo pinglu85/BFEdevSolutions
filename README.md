@@ -39,6 +39,8 @@ Here I document solutions to problems that I solved.
 
 [18. improve a function](/Code/18.improve-a-function.md)
 
+[19. find corresponding node in two identical DOM tree](/Code/19.find-corresponding-node-in-two-identical-DOM-tree.md)
+
 [23. create a sum()](/Code/23.create-a-sum.md)
 
 [39. implement range()](/Code/39.implement-range.md)
