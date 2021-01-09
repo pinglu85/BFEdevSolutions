@@ -41,6 +41,8 @@ Here I document solutions to problems that I solved.
 
 [19. find corresponding node in two identical DOM tree](/Code/19.find-corresponding-node-in-two-identical-DOM-tree.md)
 
+[20. detect data type in JavaScript](/Code/20.detect-data-type-in-JavaScript.md)
+
 [23. create a sum()](/Code/23.create-a-sum.md)
 
 [39. implement range()](/Code/39.implement-range.md)
