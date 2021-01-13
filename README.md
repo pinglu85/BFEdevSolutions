@@ -43,6 +43,8 @@ Here I document solutions to problems that I solved.
 
 [20. detect data type in JavaScript](/Code/20.detect-data-type-in-JavaScript.md)
 
+[21. implement JSON.stringify()](/Code/21.implement-JSON-stringify.md)
+
 [23. create a sum()](/Code/23.create-a-sum.md)
 
 [39. implement range()](/Code/39.implement-range.md)
