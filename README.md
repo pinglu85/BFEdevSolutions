@@ -45,6 +45,8 @@ Here I document solutions to problems that I solved.
 
 [21. implement JSON.stringify()](/Code/21.implement-JSON-stringify.md)
 
+[22. implement JSON.parse()](/Code/22.implement-JSON-parse.md)
+
 [23. create a sum()](/Code/23.create-a-sum.md)
 
 [39. implement range()](/Code/39.implement-range.md)
