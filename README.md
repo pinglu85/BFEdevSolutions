@@ -60,3 +60,5 @@ Here I document solutions to problems that I solved.
 [113. Virtual DOM I](/Code/113.Virtual-DOM-I.md)
 
 [118. Virtual DOM II - createElement](/Code/118.Virtual-DOM-II-createElement.md)
+
+[140. Virtual DOM III - Functional Component](/Code/140.Virtual-DOM-III-Functional-Component.md)
