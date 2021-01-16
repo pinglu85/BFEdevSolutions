@@ -56,3 +56,5 @@ Here I document solutions to problems that I solved.
 [79. convert snake_case to camelCase](/Code/79.convert-snake_case-to-camelCase.md)
 
 [96. count "1" in binary form](/Code/96.count-1-in-binary-form.md)
+
+[113. Virtual DOM I](/Code/113.Virtual-DOM-I.md)
