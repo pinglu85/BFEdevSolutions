@@ -57,6 +57,8 @@ Here I document solutions to problems that I solved.
 
 [96. count "1" in binary form](/Code/96.count-1-in-binary-form.md)
 
+[109. implement `Math.pow()`](/Code/109.implement-Math-pow.md)
+
 [113. Virtual DOM I](/Code/113.Virtual-DOM-I.md)
 
 [118. Virtual DOM II - createElement](/Code/118.Virtual-DOM-II-createElement.md)
