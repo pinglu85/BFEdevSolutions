@@ -49,6 +49,8 @@ Here I document solutions to problems that I solved.
 
 [23. create a sum()](/Code/23.create-a-sum.md)
 
+[24. create a Priority Queue in JavaScript](/Code/24.create-a-Priority-Queue-in-JavaScript.md)
+
 [39. implement range()](/Code/39.implement-range.md)
 
 [66. remove duplicates from an array](/Code/66.remove-duplicates-from-an-array.md)
