@@ -50,6 +50,8 @@
 
 [25. reorder array with new indexes](25.reorder-array-with-new-indexes.md)
 
+[26. implement Object.assign()](26.implement-Object-assign.md)
+
 [39. implement range()](39.implement-range.md)
 
 [66. remove duplicates from an array](66.remove-duplicates-from-an-array.md)
