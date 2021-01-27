@@ -52,6 +52,8 @@
 
 [26. implement Object.assign()](26.implement-Object-assign.md)
 
+[27. implement completeAssign()](27.implement-completeAssign.md)
+
 [39. implement range()](39.implement-range.md)
 
 [66. remove duplicates from an array](66.remove-duplicates-from-an-array.md)
