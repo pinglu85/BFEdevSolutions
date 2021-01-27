@@ -54,6 +54,8 @@
 
 [27. implement completeAssign()](27.implement-completeAssign.md)
 
+[28. implement clearAllTimeout()](28.implement-clearAllTimeout.md)
+
 [39. implement range()](39.implement-range.md)
 
 [66. remove duplicates from an array](66.remove-duplicates-from-an-array.md)
