@@ -56,6 +56,8 @@
 
 [28. implement clearAllTimeout()](28.implement-clearAllTimeout.md)
 
+[29. implement async helper - `sequence()`](29.implement-async-helper-sequence.md)
+
 [39. implement range()](39.implement-range.md)
 
 [66. remove duplicates from an array](66.remove-duplicates-from-an-array.md)
