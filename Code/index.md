@@ -60,6 +60,8 @@
 
 [30. implement async helper - `parallel()`](30.implement-async-helper-parallel.md)
 
+[31. implement async helper - `race()`](31.implement-async-helper-race.md)
+
 [39. implement range()](39.implement-range.md)
 
 [66. remove duplicates from an array](66.remove-duplicates-from-an-array.md)
