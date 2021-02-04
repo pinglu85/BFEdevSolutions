@@ -66,6 +66,8 @@
 
 [33. implement `Promise.allSettled()`](33.implement-Promise.allSettled.md)
 
+[34. implement `Promise.any()`](34.implement-Promise.any.md)
+
 [39. implement range()](39.implement-range.md)
 
 [66. remove duplicates from an array](66.remove-duplicates-from-an-array.md)
