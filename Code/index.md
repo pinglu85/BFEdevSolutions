@@ -68,6 +68,8 @@
 
 [34. implement `Promise.any()`](34.implement-Promise.any.md)
 
+[35. implement `Promise.race()`](35.implement-Promise.race.md)
+
 [39. implement range()](39.implement-range.md)
 
 [66. remove duplicates from an array](66.remove-duplicates-from-an-array.md)
