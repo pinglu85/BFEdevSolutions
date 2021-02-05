@@ -70,6 +70,8 @@
 
 [35. implement `Promise.race()`](35.implement-Promise.race.md)
 
+[36. create a fake timer(setTimeout)](36.create-a-fake-timer-setTimeout.md)
+
 [37. implement Binary Search (unique)](37.implement-Binary-Search-unique.md)
 
 [39. implement range()](39.implement-range.md)
