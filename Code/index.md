@@ -70,6 +70,8 @@
 
 [35. implement `Promise.race()`](35.implement-Promise.race.md)
 
+[37. implement Binary Search (unique)](37.implement-Binary-Search-unique.md)
+
 [39. implement range()](39.implement-range.md)
 
 [66. remove duplicates from an array](66.remove-duplicates-from-an-array.md)
