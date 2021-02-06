@@ -74,6 +74,8 @@
 
 [37. implement Binary Search (unique)](37.implement-Binary-Search-unique.md)
 
+[38. implement `jest.spyOn()`](38.implement-jest.spyOn.md)
+
 [39. implement range()](39.implement-range.md)
 
 [66. remove duplicates from an array](66.remove-duplicates-from-an-array.md)
