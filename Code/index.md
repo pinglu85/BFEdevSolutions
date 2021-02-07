@@ -78,6 +78,8 @@
 
 [39. implement range()](39.implement-range.md)
 
+[40. implement Bubble Sort](40.implement-Bubble-Sort.md)
+
 [66. remove duplicates from an array](66.remove-duplicates-from-an-array.md)
 
 [79. convert snake_case to camelCase](79.convert-snake_case-to-camelCase.md)
