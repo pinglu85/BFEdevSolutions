@@ -86,6 +86,8 @@
 
 [43. implement Quick Sort](43.implement-Quick-Sort.md)
 
+[44. implement Selection Sort](44.implement-Selection-Sort.md)
+
 [66. remove duplicates from an array](66.remove-duplicates-from-an-array.md)
 
 [79. convert snake_case to camelCase](79.convert-snake_case-to-camelCase.md)
