@@ -90,6 +90,8 @@
 
 [45. find the K-th largest element in an unsorted array](45.find-the-K-th-largest-element-in-an-unsorted-array.md)
 
+[46. implement `_.once()`](46.implement-once.md)
+
 [66. remove duplicates from an array](66.remove-duplicates-from-an-array.md)
 
 [79. convert snake_case to camelCase](79.convert-snake_case-to-camelCase.md)
