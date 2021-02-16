@@ -6,4 +6,6 @@
 
 [5. block scope](5.block-scope.md)
 
+[6. Arrow Function](6.Arrow-Function.md)
+
 [7. Increment Operator](7.Increment-Operator.md)
