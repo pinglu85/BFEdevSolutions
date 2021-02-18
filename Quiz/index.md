@@ -9,3 +9,5 @@
 [6. Arrow Function](6.Arrow-Function.md)
 
 [7. Increment Operator](7.Increment-Operator.md)
+
+[39. var](39.var.md)
