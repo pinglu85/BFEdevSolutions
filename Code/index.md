@@ -92,6 +92,8 @@
 
 [46. implement `_.once()`](46.implement-once.md)
 
+[47. reverse a linked list](47.reverse-a-linked-list.md)
+
 [48. search first index with Binary Search(possible duplicate array)](48.search-first-index-with-Binary-Search-duplicate-array.md)
 
 [66. remove duplicates from an array](66.remove-duplicates-from-an-array.md)
