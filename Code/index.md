@@ -98,6 +98,8 @@
 
 [49. search last index with Binary Search(possible duplicate array)](49.search-last-index-with-Binary-Search-duplicate-array.md)
 
+[50. search element right before target with Binary Search(possible duplicate array)](50.search-element-right-before-target-with-Binary-Search-duplicate-array.md)
+
 [66. remove duplicates from an array](66.remove-duplicates-from-an-array.md)
 
 [79. convert snake_case to camelCase](79.convert-snake_case-to-camelCase.md)
