@@ -14,6 +14,8 @@
 
 [27. Hoisting I](27.Hoisting-I.md)
 
+[28. Hoisting II](28.Hoisting-II.md)
+
 [37. push unshift](37.push-unshift.md)
 
 [39. var](39.var.md)
