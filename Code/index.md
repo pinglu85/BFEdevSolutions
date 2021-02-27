@@ -104,6 +104,8 @@
 
 [52. create a middleware system](52.create-a-middleware-system.md)
 
+[53. write your own `extends` in es5](53.write-your-own-extends-in-es5.md)
+
 [66. remove duplicates from an array](66.remove-duplicates-from-an-array.md)
 
 [79. convert snake_case to camelCase](79.convert-snake_case-to-camelCase.md)
