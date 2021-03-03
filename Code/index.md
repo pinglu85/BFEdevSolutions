@@ -108,6 +108,8 @@
 
 [54. flatten Thunk](54.flatten-Thunk.md)
 
+[55. highlight keywords in HTML string](55.highlight-keywords-in-HTML-string.md)
+
 [66. remove duplicates from an array](66.remove-duplicates-from-an-array.md)
 
 [79. convert snake_case to camelCase](79.convert-snake_case-to-camelCase.md)
