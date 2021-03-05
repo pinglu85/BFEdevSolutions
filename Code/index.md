@@ -112,6 +112,8 @@
 
 [56. call APIs with pagination](56.call-APIs-with-pagination.md)
 
+[57. create an Observable](57.create-an-Observable.md)
+
 [66. remove duplicates from an array](66.remove-duplicates-from-an-array.md)
 
 [79. convert snake_case to camelCase](79.convert-snake_case-to-camelCase.md)
