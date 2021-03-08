@@ -116,6 +116,8 @@
 
 [58. get DOM tree height](58.get-DOM-tree-height.md)
 
+[59. create a browser history](59.create-a-browser-history.md)
+
 [66. remove duplicates from an array](66.remove-duplicates-from-an-array.md)
 
 [79. convert snake_case to camelCase](79.convert-snake_case-to-camelCase.md)
