@@ -118,6 +118,8 @@
 
 [59. create a browser history](59.create-a-browser-history.md)
 
+[60. create your own `new` operator](60.create-your-own-new-operator.md)
+
 [66. remove duplicates from an array](66.remove-duplicates-from-an-array.md)
 
 [79. convert snake_case to camelCase](79.convert-snake_case-to-camelCase.md)
