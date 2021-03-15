@@ -126,6 +126,8 @@
 
 [63. create `_.cloneDeep()`](63.create-cloneDeep.md)
 
+[64. auto-retry Promise on rejection](64.auto-retry-Promise-on-rejection.md)
+
 [66. remove duplicates from an array](66.remove-duplicates-from-an-array.md)
 
 [79. convert snake_case to camelCase](79.convert-snake_case-to-camelCase.md)
