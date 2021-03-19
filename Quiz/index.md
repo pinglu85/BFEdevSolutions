@@ -10,6 +10,8 @@
 
 [7. Increment Operator](7.Increment-Operator.md)
 
+[12. arguments](12.arguments.md)
+
 [17. reduce](17.reduce.md)
 
 [27. Hoisting I](27.Hoisting-I.md)
