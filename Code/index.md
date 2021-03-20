@@ -147,3 +147,5 @@
 [140. Virtual DOM III - Functional Component](140.Virtual-DOM-III-Functional-Component.md)
 
 [143. Virtual DOM IV - JSX 1](143.Virtual-DOM-IV-JSX-1.md)
+
+[151. implement Array.prototype.map()](151.implement-Array-prototype-map.md)
