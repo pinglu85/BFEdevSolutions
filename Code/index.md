@@ -134,6 +134,8 @@
 
 [67. create your own Promise](67.create-your-own-Promise.md)
 
+[68. get DOM tags](68.get-DOM-tags.md)
+
 [79. convert snake_case to camelCase](79.convert-snake_case-to-camelCase.md)
 
 [96. count "1" in binary form](96.count-1-in-binary-form.md)
