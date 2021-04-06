@@ -142,6 +142,8 @@
 
 [71. implement Observable Subject](71.implement-Observable-Subject.md)
 
+[72. implement Observable interval()](72.implement-Observable-interval.md)
+
 [79. convert snake_case to camelCase](79.convert-snake_case-to-camelCase.md)
 
 [96. count "1" in binary form](96.count-1-in-binary-form.md)
