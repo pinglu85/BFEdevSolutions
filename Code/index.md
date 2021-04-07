@@ -144,6 +144,8 @@
 
 [72. implement Observable interval()](72.implement-Observable-interval.md)
 
+[73. implement Observable fromEvent()](73.implement-Observable-fromEvent.md)
+
 [79. convert snake_case to camelCase](79.convert-snake_case-to-camelCase.md)
 
 [96. count "1" in binary form](96.count-1-in-binary-form.md)
