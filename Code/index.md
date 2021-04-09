@@ -148,6 +148,8 @@
 
 [74. implement Observable Transformation Operators](74.implement-Observable-Transformation-Operators.md)
 
+[75. implement BigInt subtraction](75.implement-BigInt-subtraction.md)
+
 [79. convert snake_case to camelCase](79.convert-snake_case-to-camelCase.md)
 
 [96. count "1" in binary form](96.count-1-in-binary-form.md)
