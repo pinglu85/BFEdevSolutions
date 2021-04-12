@@ -152,6 +152,8 @@
 
 [76. implement BigInt addition with sign](76.implement-BigInt-addition-with-sign.md)
 
+[78. convert HEX color to RGBA](78.convert-HEX-color-to-RGBA.md)
+
 [79. convert snake_case to camelCase](79.convert-snake_case-to-camelCase.md)
 
 [96. count "1" in binary form](96.count-1-in-binary-form.md)
