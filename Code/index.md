@@ -156,6 +156,8 @@
 
 [79. convert snake_case to camelCase](79.convert-snake_case-to-camelCase.md)
 
+[81. merge sorted arrays](81.merge-sorted-arrays.md)
+
 [96. count "1" in binary form](96.count-1-in-binary-form.md)
 
 [109. implement `Math.pow()`](109.implement-Math-pow.md)
