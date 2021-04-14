@@ -4,6 +4,8 @@
 
 [2. Promise executor](2.Promise-executor.md)
 
+[3. Promise then callbacks](3.Promise-then-callbacks.md)
+
 [5. block scope](5.block-scope.md)
 
 [6. Arrow Function](6.Arrow-Function.md)
