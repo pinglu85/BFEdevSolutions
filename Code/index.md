@@ -156,6 +156,8 @@
 
 [79. convert snake_case to camelCase](79.convert-snake_case-to-camelCase.md)
 
+[80. implement your own URLSearchParams](80.implement-your-own-URLSearchParams.md)
+
 [81. merge sorted arrays](81.merge-sorted-arrays.md)
 
 [96. count "1" in binary form](96.count-1-in-binary-form.md)
