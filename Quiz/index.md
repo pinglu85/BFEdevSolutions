@@ -16,6 +16,8 @@
 
 [17. reduce](17.reduce.md)
 
+[18. Promise executor II](18.Promise-executor-II.md)
+
 [19. `this`](19.this.md)
 
 [27. Hoisting I](27.Hoisting-I.md)
