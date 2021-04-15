@@ -31,3 +31,5 @@
 [39. var](39.var.md)
 
 [43. JSON.stringify()](43.JSON.stringify.md)
+
+[47. Promise Order II](47.Promise-Order-II.md)
