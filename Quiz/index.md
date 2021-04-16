@@ -12,6 +12,8 @@
 
 [7. Increment Operator](7.Increment-Operator.md)
 
+[8. Implicit Coercion I](8.Implicit-Coercion-I.md)
+
 [12. arguments](12.arguments.md)
 
 [17. reduce](17.reduce.md)
