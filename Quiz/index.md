@@ -34,6 +34,8 @@
 
 [43. JSON.stringify()](43.JSON.stringify.md)
 
+[44. Function call](44.Function-call.md)
+
 [47. Promise Order II](47.Promise-Order-II.md)
 
 [61. onClick](61.onClick.md)
