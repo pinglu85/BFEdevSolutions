@@ -14,6 +14,8 @@
 
 [8. Implicit Coercion I](8.Implicit-Coercion-I.md)
 
+[9. null and undefined](9.null-and-undefined.md)
+
 [12. arguments](12.arguments.md)
 
 [14. Addition vs Unary Plus](14.Addition-vs-Unary-Plus.md)
