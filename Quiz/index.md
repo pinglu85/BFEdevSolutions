@@ -16,6 +16,8 @@
 
 [9. null and undefined](9.null-and-undefined.md)
 
+[10. Equal](10.equal.md)
+
 [12. arguments](12.arguments.md)
 
 [14. Addition vs Unary Plus](14.Addition-vs-Unary-Plus.md)
