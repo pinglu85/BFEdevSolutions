@@ -32,6 +32,8 @@
 
 [28. Hoisting II](28.Hoisting-II.md)
 
+[29. Hoisting III](29.Hoisting-III.md)
+
 [33. `this` II](33.this-II.md)
 
 [37. push unshift](37.push-unshift.md)
