@@ -52,6 +52,8 @@
 
 [49. `this` IV](49.this-IV.md)
 
+[50. async await](50.async-await.md)
+
 [61. onClick](61.onClick.md)
 
 [63. in](63.in.md)
