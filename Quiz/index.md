@@ -28,6 +28,8 @@
 
 [19. `this`](19.this.md)
 
+[23. Promise.all()](23.Promise-all.md)
+
 [27. Hoisting I](27.Hoisting-I.md)
 
 [28. Hoisting II](28.Hoisting-II.md)
