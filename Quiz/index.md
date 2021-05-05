@@ -38,6 +38,8 @@
 
 [33. `this` II](33.this-II.md)
 
+[36. Promise.prototype.finally()](36.Promise-prototype-finally.md)
+
 [37. push unshift](37.push-unshift.md)
 
 [38. Hoisting IV](38.Hoisting-IV.md)
