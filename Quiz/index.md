@@ -18,6 +18,8 @@
 
 [10. Equal](10.equal.md)
 
+[11. Implicit Coercion II](11.Implicit-Coercion-II.md)
+
 [12. arguments](12.arguments.md)
 
 [14. Addition vs Unary Plus](14.Addition-vs-Unary-Plus.md)
