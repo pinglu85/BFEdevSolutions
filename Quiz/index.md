@@ -24,6 +24,8 @@
 
 [14. Addition vs Unary Plus](14.Addition-vs-Unary-Plus.md)
 
+[15. instanceOf](15.instanceOf.md)
+
 [17. reduce](17.reduce.md)
 
 [18. Promise executor II](18.Promise-executor-II.md)
