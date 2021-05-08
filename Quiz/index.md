@@ -26,6 +26,8 @@
 
 [15. instanceOf](15.instanceOf.md)
 
+[16. parseInt](16.parseInt.md)
+
 [17. reduce](17.reduce.md)
 
 [18. Promise executor II](18.Promise-executor-II.md)
