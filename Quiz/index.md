@@ -36,6 +36,8 @@
 
 [20. name for Function expression](20.name-for-Function-expression.md)
 
+[22. min max](22.min-max.md)
+
 [23. Promise.all()](23.Promise-all.md)
 
 [27. Hoisting I](27.Hoisting-I.md)
