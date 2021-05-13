@@ -42,6 +42,8 @@
 
 [24. Equality & Sameness](24.Equality-Sameness.md)
 
+[25. zero](25.zero.md)
+
 [27. Hoisting I](27.Hoisting-I.md)
 
 [28. Hoisting II](28.Hoisting-II.md)
