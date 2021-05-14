@@ -44,6 +44,8 @@
 
 [25. zero](25.zero.md)
 
+[26. true or false](26.true-or-false.md)
+
 [27. Hoisting I](27.Hoisting-I.md)
 
 [28. Hoisting II](28.Hoisting-II.md)
