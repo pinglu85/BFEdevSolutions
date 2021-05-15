@@ -52,6 +52,8 @@
 
 [29. Hoisting III](29.Hoisting-III.md)
 
+[30. Equal II](30.Equal-II.md)
+
 [33. `this` II](33.this-II.md)
 
 [36. Promise.prototype.finally()](36.Promise-prototype-finally.md)
