@@ -22,6 +22,8 @@
 
 [12. arguments](12.arguments.md)
 
+[13. Operator precedence](13.Operator-precedence.md)
+
 [14. Addition vs Unary Plus](14.Addition-vs-Unary-Plus.md)
 
 [15. instanceOf](15.instanceOf.md)
