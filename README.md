@@ -4,3 +4,5 @@ Here I document solutions to problems that I solved.
 [**Code**](/Code/index.md)
 
 [**Quiz**](/Quiz/index.md)
+
+[**TypeScript Puzzles**](/TypeScript-Puzzles/index.md)
