@@ -7,3 +7,5 @@
 [3. implement Readonly<T>](3.implement-Readonly-T.md)
 
 [4. implement Record<K, V>](4.implement-Record-K-V.md)
+
+[5. implement Pick<T, K>](5.implement-Pick-T-K.md)
