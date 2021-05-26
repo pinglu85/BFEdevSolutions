@@ -1,4 +1,4 @@
-### Contents
+### Quiz
 
 [1. Promise order](1.Promise-order.md)
 

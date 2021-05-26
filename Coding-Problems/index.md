@@ -1,4 +1,4 @@
-### Contents
+### Coding Problems
 
 [1. implement curry()](1.implement-curry.md)
 
