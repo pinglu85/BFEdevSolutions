@@ -9,3 +9,5 @@
 [4. implement Record<K, V>](4.implement-Record-K-V.md)
 
 [5. implement Pick<T, K>](5.implement-Pick-T-K.md)
+
+[6. implement Omit<T, K>](6.implement-Omit-T-K.md)
