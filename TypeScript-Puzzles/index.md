@@ -11,3 +11,5 @@
 [5. implement Pick<T, K>](5.implement-Pick-T-K.md)
 
 [6. implement Omit<T, K>](6.implement-Omit-T-K.md)
+
+[7. implement Exclude<T, E>](7.implement-Exclude-T-E.md)
