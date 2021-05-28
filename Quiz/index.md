@@ -62,6 +62,8 @@
 
 [34. precedence](34.precedence.md)
 
+[35. Implicit Coercion III](35.Implicit-Coercion-III.md)
+
 [36. Promise.prototype.finally()](36.Promise-prototype-finally.md)
 
 [37. push unshift](37.push-unshift.md)
