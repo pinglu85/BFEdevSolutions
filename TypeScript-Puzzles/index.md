@@ -13,3 +13,5 @@
 [6. implement Omit<T, K>](6.implement-Omit-T-K.md)
 
 [7. implement Exclude<T, E>](7.implement-Exclude-T-E.md)
+
+[8. implement Extract<T, U>](8.implement-Extract-T-U.md)
