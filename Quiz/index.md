@@ -72,6 +72,8 @@
 
 [39. var](39.var.md)
 
+[40. RegExp.prototype.test](40.RegExp-prototype-test.md)
+
 [41. `this` III](41.this-III.md)
 
 [43. JSON.stringify()](43.JSON.stringify.md)
