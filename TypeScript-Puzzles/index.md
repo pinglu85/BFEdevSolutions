@@ -17,3 +17,5 @@
 [8. implement Extract<T, U>](8.implement-Extract-T-U.md)
 
 [9. implement NonNullable<T>](9.implement-NonNullable-T.md)
+
+[10. implement Parameters<T>](10.implement-Parameters-T.md)
