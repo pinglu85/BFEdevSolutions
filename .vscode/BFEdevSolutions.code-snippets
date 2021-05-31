@@ -1,0 +1,64 @@
+{
+  "Coding Problems Template": {
+    "scope": "markdown",
+    "prefix": "coding",
+    "body": [
+      "## ${1:title}\n",
+      "### Problem\n",
+      "${2:link}\n",
+      "### Problem Description\n",
+      "${3:description}\n",
+      "### Understanding the problem\n",
+      "${4:understanding the problem}\n",
+      "### Approach\n",
+      "${5:approach}\n",
+      "### Solution\n",
+      "```js",
+      "${6:solution}",
+      "```\n",
+      "### Reference\n",
+      "${7:reference}"
+    ]
+  },
+  "Quiz Template": {
+    "scope": "markdown",
+    "prefix": "quiz",
+    "body": [
+      "## ${1:title}\n",
+      "### Problem\n",
+      "${2:link}\n",
+      "### Problem Description\n",
+      "What does the code snippet below output by `console.log`?\n",
+      "```js",
+      "${3:code snippet}",
+      "```\n",
+      "### Answer\n",
+      "```",
+      "${4:answer}",
+      "```\n",
+      "### Explanation\n",
+      "${5:explanation}\n",
+      "### Reference\n",
+      "${6:reference}"
+    ]
+  },
+  "TypeScript Puzzles Template": {
+    "scope": "markdown",
+    "prefix": "tspuzzle",
+    "body": [
+      "## ${1:title}\n",
+      "### Problem\n",
+      "${2:link}\n",
+      "### Problem Description\n",
+      "${3:description}\n",
+      "### Solution\n",
+      "```ts",
+      "${4:solution}",
+      "```\n",
+      "### Explanation\n",
+      "${5:explanation}\n",
+      "### Reference\n",
+      "${6:reference}"
+    ]
+  }
+}
