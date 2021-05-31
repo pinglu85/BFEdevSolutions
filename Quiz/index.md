@@ -76,6 +76,8 @@
 
 [41. `this` III](41.this-III.md)
 
+[42. Hoisting V](42.Hoisting-V.md)
+
 [43. JSON.stringify()](43.JSON.stringify.md)
 
 [44. Function call](44.Function-call.md)
