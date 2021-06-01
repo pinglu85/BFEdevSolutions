@@ -19,3 +19,5 @@
 [9. implement NonNullable<T>](9.implement-NonNullable-T.md)
 
 [10. implement Parameters<T>](10.implement-Parameters-T.md)
+
+[11. implement ConstructorParameters<T>](11.implement-ConstructorParameters-T.md)
