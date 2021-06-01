@@ -82,6 +82,8 @@
 
 [44. Function call](44.Function-call.md)
 
+[45. Hoisting VI](45.Hoisting-VI.md)
+
 [47. Promise Order II](47.Promise-Order-II.md)
 
 [49. `this` IV](49.this-IV.md)
