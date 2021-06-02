@@ -21,3 +21,5 @@
 [10. implement Parameters<T>](10.implement-Parameters-T.md)
 
 [11. implement ConstructorParameters<T>](11.implement-ConstructorParameters-T.md)
+
+[12. implement ReturnType<T>](12.implement-ReturnType-T.md)
