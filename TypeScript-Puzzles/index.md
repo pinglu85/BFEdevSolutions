@@ -23,3 +23,5 @@
 [11. implement ConstructorParameters<T>](11.implement-ConstructorParameters-T.md)
 
 [12. implement ReturnType<T>](12.implement-ReturnType-T.md)
+
+[13. implement InstanceType<T>](13.implement-InstanceType-T.md)
