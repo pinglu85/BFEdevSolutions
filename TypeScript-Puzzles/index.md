@@ -1,10 +1,10 @@
 ### TypeScript Puzzles
 
-[1. implement Partial<T>](1.implement-Partial-T.md)
+[1. implement Partial\<T\>](1.implement-Partial-T.md)
 
-[2. implement Required<T>](2.implement-Required-T.md)
+[2. implement Required\<T\>](2.implement-Required-T.md)
 
-[3. implement Readonly<T>](3.implement-Readonly-T.md)
+[3. implement Readonly\<T\>](3.implement-Readonly-T.md)
 
 [4. implement Record<K, V>](4.implement-Record-K-V.md)
 
@@ -16,12 +16,14 @@
 
 [8. implement Extract<T, U>](8.implement-Extract-T-U.md)
 
-[9. implement NonNullable<T>](9.implement-NonNullable-T.md)
+[9. implement NonNullable\<T\>](9.implement-NonNullable-T.md)
 
-[10. implement Parameters<T>](10.implement-Parameters-T.md)
+[10. implement Parameters\<T\>](10.implement-Parameters-T.md)
 
-[11. implement ConstructorParameters<T>](11.implement-ConstructorParameters-T.md)
+[11. implement ConstructorParameters\<T\>](11.implement-ConstructorParameters-T.md)
 
-[12. implement ReturnType<T>](12.implement-ReturnType-T.md)
+[12. implement ReturnType\<T\>](12.implement-ReturnType-T.md)
 
-[13. implement InstanceType<T>](13.implement-InstanceType-T.md)
+[13. implement InstanceType\<T\>](13.implement-InstanceType-T.md)
+
+[14. implement ThisParameterType\<T\>](14.implement-ThisParameterType-T.md)
