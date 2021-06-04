@@ -88,6 +88,8 @@
 
 [47. Promise Order II](47.Promise-Order-II.md)
 
+[48. Prototype](48.Prototype.md)
+
 [49. `this` IV](49.this-IV.md)
 
 [50. async await](50.async-await.md)
