@@ -160,6 +160,8 @@
 
 [81. merge sorted arrays](81.merge-sorted-arrays.md)
 
+[82. find available meeting slots](82.find-available-meeting-slots.md)
+
 [96. count "1" in binary form](96.count-1-in-binary-form.md)
 
 [109. implement `Math.pow()`](109.implement-Math-pow.md)
