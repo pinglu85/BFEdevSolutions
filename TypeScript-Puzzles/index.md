@@ -27,3 +27,5 @@
 [13. implement InstanceType\<T\>](13.implement-InstanceType-T.md)
 
 [14. implement ThisParameterType\<T\>](14.implement-ThisParameterType-T.md)
+
+[15. implement OmitThisParameter\<T\>](15.implement-OmitThisParameter-T.md)
