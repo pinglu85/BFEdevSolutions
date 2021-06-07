@@ -29,3 +29,5 @@
 [14. implement ThisParameterType\<T\>](14.implement-ThisParameterType-T.md)
 
 [15. implement OmitThisParameter\<T\>](15.implement-OmitThisParameter-T.md)
+
+[16. implement FirstChar\<T\>](16.implement-FirstChar-T.md)
