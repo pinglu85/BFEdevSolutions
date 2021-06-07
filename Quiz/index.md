@@ -96,6 +96,8 @@
 
 [51. method](51.method.md)
 
+[52. requestAnimationFrame](52.requestAnimationFrame.md)
+
 [61. onClick](61.onClick.md)
 
 [63. in](63.in.md)
