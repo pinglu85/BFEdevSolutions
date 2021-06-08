@@ -31,3 +31,5 @@
 [15. implement OmitThisParameter\<T\>](15.implement-OmitThisParameter-T.md)
 
 [16. implement FirstChar\<T\>](16.implement-FirstChar-T.md)
+
+[17. implement LastChar\<T\>](17.implement-LastChar-T.md)
