@@ -98,6 +98,8 @@
 
 [52. requestAnimationFrame](52.requestAnimationFrame.md)
 
+[53. Prototype 2](53.Prototype-2.md)
+
 [61. onClick](61.onClick.md)
 
 [63. in](63.in.md)
