@@ -35,3 +35,5 @@
 [17. implement LastChar\<T\>](17.implement-LastChar-T.md)
 
 [18. implement TupleToUnion\<T\>](18.implement-TupleToUnion-T.md)
+
+[19. implement FirstItem\<T\>](19.implement-FirstItem-T.md)
