@@ -164,6 +164,8 @@
 
 [83. create an interval](83.create-an-interval.md)
 
+[84. create a fake timer (setInterval)](84.create-a-fake-timer-setInterval.md)
+
 [96. count "1" in binary form](96.count-1-in-binary-form.md)
 
 [109. implement `Math.pow()`](109.implement-Math-pow.md)
