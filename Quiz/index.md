@@ -104,6 +104,8 @@
 
 [55. sparse array](55.sparse-array.md)
 
+[56. to primitive](56.to-primitive.md)
+
 [61. onClick](61.onClick.md)
 
 [63. in](63.in.md)
