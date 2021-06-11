@@ -37,3 +37,5 @@
 [18. implement TupleToUnion\<T\>](18.implement-TupleToUnion-T.md)
 
 [19. implement FirstItem\<T\>](19.implement-FirstItem-T.md)
+
+[20. implement IsNever\<T\>](20.implement-IsNever-T.md)
