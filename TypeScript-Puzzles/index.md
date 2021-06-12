@@ -39,3 +39,5 @@
 [19. implement FirstItem\<T\>](19.implement-FirstItem-T.md)
 
 [20. implement IsNever\<T\>](20.implement-IsNever-T.md)
+
+[21. implement LastItem\<T\>](21.implement-LastItem-T.md)
