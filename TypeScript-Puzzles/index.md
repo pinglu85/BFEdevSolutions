@@ -41,3 +41,5 @@
 [20. implement IsNever\<T\>](20.implement-IsNever-T.md)
 
 [21. implement LastItem\<T\>](21.implement-LastItem-T.md)
+
+[22. implement StringToTuple\<T\>](22.implement-StringToTuple-T.md)
