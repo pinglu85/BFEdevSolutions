@@ -166,6 +166,8 @@
 
 [84. create a fake timer (setInterval)](84.create-a-fake-timer-setInterval.md)
 
+[85. implement `_.get()`](85.implement-lodash-get.md)
+
 [96. count "1" in binary form](96.count-1-in-binary-form.md)
 
 [109. implement `Math.pow()`](109.implement-Math-pow.md)
