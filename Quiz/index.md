@@ -110,6 +110,8 @@
 
 [58. inherit getter setter](58.inherit-getter-setter.md)
 
+[59. override setter](59.override-setter.md)
+
 [61. onClick](61.onClick.md)
 
 [63. in](63.in.md)
