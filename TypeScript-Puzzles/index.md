@@ -43,3 +43,5 @@
 [21. implement LastItem\<T\>](21.implement-LastItem-T.md)
 
 [22. implement StringToTuple\<T\>](22.implement-StringToTuple-T.md)
+
+[23. implement LengthOfTuple\<T\>](23.implement-LengthOfTuple-T.md)
