@@ -170,6 +170,8 @@
 
 [86. Generate Fibonacci Number](86.Generate-Fibonacci-Number.md)
 
+[87. longest substring with unique characters](87.longest-substring-with-unique-characters.md)
+
 [96. count "1" in binary form](96.count-1-in-binary-form.md)
 
 [109. implement `Math.pow()`](109.implement-Math-pow.md)
