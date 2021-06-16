@@ -45,3 +45,5 @@
 [22. implement StringToTuple\<T\>](22.implement-StringToTuple-T.md)
 
 [23. implement LengthOfTuple\<T\>](23.implement-LengthOfTuple-T.md)
+
+[24. implement LengthOfString\<T\>](24.implement-LengthOfString-T.md)
