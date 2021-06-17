@@ -172,6 +172,8 @@
 
 [87. longest substring with unique characters](87.longest-substring-with-unique-characters.md)
 
+[88. support negative Array index in JavaScript](88.support-negative-Array-index-in-JavaScript.md)
+
 [91. invert a binary tree](91.invert-a-binary-tree.md)
 
 [96. count "1" in binary form](96.count-1-in-binary-form.md)
