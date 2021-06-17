@@ -47,3 +47,5 @@
 [23. implement LengthOfTuple\<T\>](23.implement-LengthOfTuple-T.md)
 
 [24. implement LengthOfString\<T\>](24.implement-LengthOfString-T.md)
+
+[25. implement UnwrapPromise\<T\>](25.implement-UnwrapPromise-T.md)
