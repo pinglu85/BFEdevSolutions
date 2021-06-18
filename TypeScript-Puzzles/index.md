@@ -49,3 +49,5 @@
 [24. implement LengthOfString\<T\>](24.implement-LengthOfString-T.md)
 
 [25. implement UnwrapPromise\<T\>](25.implement-UnwrapPromise-T.md)
+
+[26. implement ReverseTuple\<T\>](26.implement-ReverseTuple-T.md)
