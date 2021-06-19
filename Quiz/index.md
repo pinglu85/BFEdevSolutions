@@ -1,125 +1,66 @@
-### Quiz
+# Quiz
 
-[1. Promise order](1.Promise-order.md)
-
-[2. Promise executor](2.Promise-executor.md)
-
-[3. Promise then callbacks](3.Promise-then-callbacks.md)
-
-[5. block scope](5.block-scope.md)
-
-[6. Arrow Function](6.Arrow-Function.md)
-
-[7. Increment Operator](7.Increment-Operator.md)
-
-[8. Implicit Coercion I](8.Implicit-Coercion-I.md)
-
-[9. null and undefined](9.null-and-undefined.md)
-
-[10. Equal](10.equal.md)
-
-[11. Implicit Coercion II](11.Implicit-Coercion-II.md)
-
-[12. arguments](12.arguments.md)
-
-[13. Operator precedence](13.Operator-precedence.md)
-
-[14. Addition vs Unary Plus](14.Addition-vs-Unary-Plus.md)
-
-[15. instanceOf](15.instanceOf.md)
-
-[16. parseInt](16.parseInt.md)
-
-[17. reduce](17.reduce.md)
-
-[18. Promise executor II](18.Promise-executor-II.md)
-
-[19. `this`](19.this.md)
-
-[20. name for Function expression](20.name-for-Function-expression.md)
-
-[22. min max](22.min-max.md)
-
-[23. Promise.all()](23.Promise-all.md)
-
-[24. Equality & Sameness](24.Equality-Sameness.md)
-
-[25. zero](25.zero.md)
-
-[26. true or false](26.true-or-false.md)
-
-[27. Hoisting I](27.Hoisting-I.md)
-
-[28. Hoisting II](28.Hoisting-II.md)
-
-[29. Hoisting III](29.Hoisting-III.md)
-
-[30. Equal II](30.Equal-II.md)
-
-[32. Hoisting IIII](32.Hoisting-IIII.md)
-
-[33. `this` II](33.this-II.md)
-
-[34. precedence](34.precedence.md)
-
-[35. Implicit Coercion III](35.Implicit-Coercion-III.md)
-
-[36. Promise.prototype.finally()](36.Promise-prototype-finally.md)
-
-[37. push unshift](37.push-unshift.md)
-
-[38. Hoisting IV](38.Hoisting-IV.md)
-
-[39. var](39.var.md)
-
-[40. RegExp.prototype.test](40.RegExp-prototype-test.md)
-
-[41. `this` III](41.this-III.md)
-
-[42. Hoisting V](42.Hoisting-V.md)
-
-[43. JSON.stringify()](43.JSON.stringify.md)
-
-[44. Function call](44.Function-call.md)
-
-[45. Hoisting VI](45.Hoisting-VI.md)
-
-[46. Implicit Coercion IV](46.Implicit-Coercion-IV.md)
-
-[47. Promise Order II](47.Promise-Order-II.md)
-
-[48. Prototype](48.Prototype.md)
-
-[49. `this` IV](49.this-IV.md)
-
-[50. async await](50.async-await.md)
-
-[51. method](51.method.md)
-
-[52. requestAnimationFrame](52.requestAnimationFrame.md)
-
-[53. Prototype 2](53.Prototype-2.md)
-
-[54. setTimeout(0ms)](54.setTimeout-0ms.md)
-
-[55. sparse array](55.sparse-array.md)
-
-[56. to primitive](56.to-primitive.md)
-
-[57. non-writable](57.non-writable.md)
-
-[58. inherit getter setter](58.inherit-getter-setter.md)
-
-[59. override setter](59.override-setter.md)
-
-[60. postMessage](60.postMessage.md)
-
-[61. onClick](61.onClick.md)
-
-[62. MessageChannel](62.MessageChannel.md)
-
-[63. in](63.in.md)
-
-[64. reference type](64.reference-type.md)
-
-[65. Function name](65.Function-name.md)
+| Quiz                                                                   | Tags                                                              | Good to Review |
+| ---------------------------------------------------------------------- | ----------------------------------------------------------------- | -------------- |
+| [1. Promise order](1.Promise-order.md)                                 | Promise                                                           |                |
+| [2. Promise executor](2.Promise-executor.md)                           | Promise                                                           |                |
+| [3. Promise then callbacks](3.Promise-then-callbacks.md)               | Promise                                                           |                |
+| [5. block scope](5.block-scope.md)                                     | Scope                                                             |                |
+| [6. Arrow Function](6.Arrow-Function.md)                               | `this`                                                            |                |
+| [7. Increment Operator](7.Increment-Operator.md)                       | Increment `++`                                                    |                |
+| [8. Implicit Coercion I](8.Implicit-Coercion-I.md)                     | Type coercion                                                     | ✅             |
+| [9. null and undefined](9.null-and-undefined.md)                       | `null` & `undefined`                                              | ✅             |
+| [10. Equal](10.equal.md)                                               | Equality `==`                                                     | ✅             |
+| [11. Implicit Coercion II](11.Implicit-Coercion-II.md)                 | Type coercion                                                     | ✅             |
+| [12. arguments](12.arguments.md)                                       | `arguments`                                                       | ✅             |
+| [13. Operator precedence](13.Operator-precedence.md)                   | Type coercion, Operator Precedence                                | ✅             |
+| [14. Addition vs Unary Plus](14.Addition-vs-Unary-Plus.md)             | Type coercion, Unary plus `+`, Addition `+`                       | ✅             |
+| [15. instanceOf](15.instanceOf.md)                                     | `instanceof`                                                      |                |
+| [16. parseInt](16.parseInt.md)                                         | `Array.prototype.map()`, `parseInt()`                             |                |
+| [17. reduce](17.reduce.md)                                             | `Array.prototype.reduce()`                                        |                |
+| [18. Promise executor II](18.Promise-executor-II.md)                   | Promise                                                           |                |
+| [19. `this`](19.this.md)                                               | `this`                                                            |                |
+| [20. name for Function expression](20.name-for-Function-expression.md) | Function expression                                               |                |
+| [22. min max](22.min-max.md)                                           | `Math.min()`, `Math.max()`                                        |                |
+| [23. Promise.all()](23.Promise-all.md)                                 | Promise                                                           |                |
+| [24. Equality & Sameness](24.Equality-Sameness.md)                     | Equality `==`, `Object.is()`                                      |                |
+| [25. zero](25.zero.md)                                                 | Math, `Object.is()`                                               |                |
+| [26. true or false](26.true-or-false.md)                               | Truthy & falsy, Logical NOT `!`, `Boolean`                        |                |
+| [27. Hoisting I](27.Hoisting-I.md)                                     | Hoisting                                                          |                |
+| [28. Hoisting II](28.Hoisting-II.md)                                   | Hoisting                                                          |                |
+| [29. Hoisting III](29.Hoisting-III.md)                                 | Hoisting                                                          | ✅             |
+| [30. Equal II](30.Equal-II.md)                                         | Equality `==`                                                     |                |
+| [32. Hoisting IIII](32.Hoisting-IIII.md)                               | Hoisting                                                          | ✅             |
+| [33. `this` II](33.this-II.md)                                         | `this`, Grouping operator `()`, Comma operator `,`                | ✅             |
+| [34. precedence](34.precedence.md)                                     | Operator precedence, Unary plus `+`, Addition `+`, Increment `++` | ✅             |
+| [35. Implicit Coercion III](35.Implicit-Coercion-III.md)               | Type coercion                                                     | ✅             |
+| [36. Promise.prototype.finally()](36.Promise-prototype-finally.md)     | Promise                                                           | ✅             |
+| [37. push unshift](37.push-unshift.md)                                 | `Array.prototype.push()`, `Array.prototype.unshift()`             |                |
+| [38. Hoisting IV](38.Hoisting-IV.md)                                   | Hoisting                                                          | ✅             |
+| [39. var](39.var.md)                                                   | `var`                                                             | ✅             |
+| [40. RegExp.prototype.test](40.RegExp-prototype-test.md)               | `RegExp.prototype.test()`                                         |                |
+| [41. `this` III](41.this-III.md)                                       | `this`, IIFE                                                      | ✅             |
+| [42. Hoisting V](42.Hoisting-V.md)                                     | Hoisting, Conditionally created functions                         | ✅             |
+| [43. JSON.stringify()](43.JSON.stringify.md)                           | `JSON.stringify()`                                                |                |
+| [44. Function call](44.Function-call.md)                               | Function call                                                     | ✅             |
+| [45. Hoisting VI](45.Hoisting-VI.md)                                   | Hoisting, IIFE                                                    |                |
+| [46. Implicit Coercion IV](46.Implicit-Coercion-IV.md)                 | Type coercion                                                     |                |
+| [47. Promise Order II](47.Promise-Order-II.md)                         | Promise                                                           | ✅             |
+| [48. Prototype](48.Prototype.md)                                       | Prototype                                                         | ✅             |
+| [49. `this` IV](49.this-IV.md)                                         | `this`                                                            |                |
+| [50. async await](50.async-await.md)                                   | `Async/await`, Promise                                            |                |
+| [51. method](51.method.md)                                             | Method Definition                                                 | ✅             |
+| [52. requestAnimationFrame](52.requestAnimationFrame.md)               | `requestAnimationFrame()`                                         | ✅             |
+| [53. Prototype 2](53.Prototype-2.md)                                   | Prototype                                                         |                |
+| [54. setTimeout(0ms)](54.setTimeout-0ms.md)                            | `setTimeout()`                                                    |                |
+| [55. sparse array](55.sparse-array.md)                                 | Sparse array                                                      | ✅             |
+| [56. to primitive](56.to-primitive.md)                                 | Type coercion, `Symbol.toPrimitive`, `parseInt()`                 |                |
+| [57. non-writable](57.non-writable.md)                                 | `Object.defineProperty()`                                         |                |
+| [58. inherit getter setter](58.inherit-getter-setter.md)               | Getter & setter                                                   |                |
+| [59. override setter](59.override-setter.md)                           | Getter & setter                                                   |                |
+| [60. postMessage](60.postMessage.md)                                   | Web messaging                                                     | ✅             |
+| [61. onClick](61.onClick.md)                                           | Click Event                                                       |                |
+| [62. MessageChannel](62.MessageChannel.md)                             | Web messaging                                                     | ✅             |
+| [63. in](63.in.md)                                                     | `in` operator                                                     |                |
+| [64. reference type](64.reference-type.md)                             | `this`, Grouping operator `()`                                    |                |
+| [65. Function name](65.Function-name.md)                               | Function expression                                               |                |
