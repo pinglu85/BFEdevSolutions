@@ -24,6 +24,11 @@
       "${7:reference}"
     ]
   },
+  "Quiz Table Row Template": {
+    "scope": "markdown",
+    "prefix": "quizTableRow",
+    "body": "|[${1:quiz}](${2:file path})|${3:tag1}|${4:tag2}|${5:tag3}|${6:good to review}|"
+  },
   "Quiz Template": {
     "scope": "markdown",
     "prefix": "quiz",
