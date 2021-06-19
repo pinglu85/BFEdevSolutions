@@ -13,7 +13,7 @@
 | [10. Equal](10.equal.md)                                               | Equality `==`                                                     | ✅             |
 | [11. Implicit Coercion II](11.Implicit-Coercion-II.md)                 | Type coercion                                                     | ✅             |
 | [12. arguments](12.arguments.md)                                       | `arguments`                                                       | ✅             |
-| [13. Operator precedence](13.Operator-precedence.md)                   | Type coercion, Operator Precedence                                | ✅             |
+| [13. Operator precedence](13.Operator-precedence.md)                   | Type coercion, Operator precedence                                | ✅             |
 | [14. Addition vs Unary Plus](14.Addition-vs-Unary-Plus.md)             | Type coercion, Unary plus `+`, Addition `+`                       | ✅             |
 | [15. instanceOf](15.instanceOf.md)                                     | `instanceof`                                                      |                |
 | [16. parseInt](16.parseInt.md)                                         | `Array.prototype.map()`, `parseInt()`                             |                |
@@ -49,7 +49,7 @@
 | [48. Prototype](48.Prototype.md)                                       | Prototype                                                         | ✅             |
 | [49. `this` IV](49.this-IV.md)                                         | `this`                                                            |                |
 | [50. async await](50.async-await.md)                                   | `Async/await`, Promise                                            |                |
-| [51. method](51.method.md)                                             | Method Definition                                                 | ✅             |
+| [51. method](51.method.md)                                             | Method definition                                                 | ✅             |
 | [52. requestAnimationFrame](52.requestAnimationFrame.md)               | `requestAnimationFrame()`                                         | ✅             |
 | [53. Prototype 2](53.Prototype-2.md)                                   | Prototype                                                         |                |
 | [54. setTimeout(0ms)](54.setTimeout-0ms.md)                            | `setTimeout()`                                                    |                |
@@ -59,7 +59,7 @@
 | [58. inherit getter setter](58.inherit-getter-setter.md)               | Getter & setter                                                   |                |
 | [59. override setter](59.override-setter.md)                           | Getter & setter                                                   |                |
 | [60. postMessage](60.postMessage.md)                                   | Web messaging                                                     | ✅             |
-| [61. onClick](61.onClick.md)                                           | Click Event                                                       |                |
+| [61. onClick](61.onClick.md)                                           | Click event                                                       |                |
 | [62. MessageChannel](62.MessageChannel.md)                             | Web messaging                                                     | ✅             |
 | [63. in](63.in.md)                                                     | `in` operator                                                     |                |
 | [64. reference type](64.reference-type.md)                             | `this`, Grouping operator `()`                                    |                |
