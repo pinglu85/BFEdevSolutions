@@ -53,3 +53,5 @@
 [26. implement ReverseTuple\<T\>](26.implement-ReverseTuple-T.md)
 
 [27. implement Flat\<T\>](27.implement-Flat-T.md)
+
+[29. implement Shift\<T\>](29.implement-Shift-T.md)
