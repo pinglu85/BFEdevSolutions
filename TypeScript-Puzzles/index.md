@@ -55,3 +55,5 @@
 [27. implement Flat\<T\>](27.implement-Flat-T.md)
 
 [29. implement Shift\<T\>](29.implement-Shift-T.md)
+
+[31. implement Push<T, I>](31.implement-Push-T-I.md)
