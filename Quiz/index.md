@@ -66,3 +66,4 @@
 | [65. Function name](65.Function-name.md)                               | Function expression                                               |                |
 | [66. if](66.if.md)                                                     | Hoisting, Conditionally created functions                         |                |
 | [67. if II](67.if-II.md)                                               | Function expression                                               | ✅             |
+| [68. undefined](68.undefined.md)                                       | arguments                                                         |                |
