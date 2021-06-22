@@ -1,4 +1,9 @@
 {
+  "Coding Problems Contents Table Row Template": {
+    "scope": "markdown",
+    "prefix": "codingTableRow",
+    "body": "|[${1:problem}](${2:file path})|${3:category}|${4:good to review} ✅|"
+  },
   "Coding Problems Template": {
     "scope": "markdown",
     "prefix": "coding",
@@ -24,10 +29,10 @@
       "${7:reference}"
     ]
   },
-  "Quiz Table Row Template": {
+  "Quiz Contents Table Row Template": {
     "scope": "markdown",
     "prefix": "quizTableRow",
-    "body": "|[${1:quiz}](${2:file path})|${3:tags}|${6:good to review} ✅|"
+    "body": "|[${1:quiz}](${2:file path})|${3:tags}|${4:good to review} ✅|"
   },
   "Quiz Template": {
     "scope": "markdown",
@@ -53,6 +58,11 @@
       "### Reference\n",
       "${6:reference}"
     ]
+  },
+  "TypeScript Puzzles Contents Table Row Template": {
+    "scope": "markdown",
+    "prefix": "tspuzzleTableRow",
+    "body": "|[${1:puzzle}](${2:file path})|${3:good to review} ✅|"
   },
   "TypeScript Puzzles Template": {
     "scope": "markdown",
