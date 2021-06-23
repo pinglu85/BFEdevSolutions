@@ -32,3 +32,4 @@
 | [28. implement IsEmptyType\<T\>](28.implement-IsEmptyType-T.md)                     | ✅             |
 | [29. implement Shift\<T\>](29.implement-Shift-T.md)                                 |                |
 | [31. implement Push<T, I>](31.implement-Push-T-I.md)                                |                |
+| [30. implement IsAny\<T\>](30.implement-IsAny-T.md)                                 | ✅             |
