@@ -24,12 +24,13 @@
 | [22. min max](22.min-max.md)                                           | `Math.min()`, `Math.max()`                                        |                |
 | [23. Promise.all()](23.Promise-all.md)                                 | Promise                                                           |                |
 | [24. Equality & Sameness](24.Equality-Sameness.md)                     | Equality `==`, `Object.is()`                                      |                |
-| [25. zero](25.zero.md)                                                 | Math, `Object.is()`                                               |                |
+| [25. zero](25.zero.md)                                                 | Math, `Object.is()`                                               | ✅             |
 | [26. true or false](26.true-or-false.md)                               | Truthy & falsy, Logical NOT `!`, `Boolean`                        |                |
 | [27. Hoisting I](27.Hoisting-I.md)                                     | Hoisting                                                          |                |
 | [28. Hoisting II](28.Hoisting-II.md)                                   | Hoisting                                                          |                |
 | [29. Hoisting III](29.Hoisting-III.md)                                 | Hoisting                                                          | ✅             |
-| [30. Equal II](30.Equal-II.md)                                         | Equality `==`                                                     |                |
+| [30. Equal II](30.Equal-II.md)                                         | Equality `==`                                                     | ✅             |
+| [31. Math](31.Math.md)                                                 | Math                                                              | ✅             |
 | [32. Hoisting IIII](32.Hoisting-IIII.md)                               | Hoisting                                                          | ✅             |
 | [33. `this` II](33.this-II.md)                                         | `this`, Grouping operator `()`, Comma operator `,`                | ✅             |
 | [34. precedence](34.precedence.md)                                     | Operator precedence, Unary plus `+`, Addition `+`, Increment `++` | ✅             |
