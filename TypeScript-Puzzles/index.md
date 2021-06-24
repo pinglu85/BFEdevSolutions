@@ -33,3 +33,4 @@
 | [29. implement Shift\<T\>](29.implement-Shift-T.md)                                 |                |
 | [30. implement IsAny\<T\>](30.implement-IsAny-T.md)                                 | ✅             |
 | [31. implement Push<T, I>](31.implement-Push-T-I.md)                                |                |
+| [32. implement RepeatString<T, C>](32.implement-RepeatString-T-C.md)                | ✅             |
