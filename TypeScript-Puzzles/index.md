@@ -35,3 +35,4 @@
 | [31. implement Push<T, I>](31.implement-Push-T-I.md)                                |                |
 | [32. implement RepeatString<T, C>](32.implement-RepeatString-T-C.md)                | ✅             |
 | [33. implement TupleToString\<T\>](33.implement-TupleToString-T.md)                 | ✅             |
+| [34. implement Repeat<T, C>](34.implement-Repeat-T-C.md)                            |                |
