@@ -36,3 +36,4 @@
 | [32. implement RepeatString<T, C>](32.implement-RepeatString-T-C.md)                | ✅             |
 | [33. implement TupleToString\<T\>](33.implement-TupleToString-T.md)                 | ✅             |
 | [34. implement Repeat<T, C>](34.implement-Repeat-T-C.md)                            |                |
+| [35. implement Filter<T, A>](35.implement-Filter-T-A.md)                            |                |
