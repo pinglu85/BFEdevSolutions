@@ -4,7 +4,7 @@
 | ---------------------------------------------------------------------- | ----------------------------------------------------------------- | -------------- |
 | [1. Promise order](1.Promise-order.md)                                 | Promise                                                           |                |
 | [2. Promise executor](2.Promise-executor.md)                           | Promise                                                           |                |
-| [3. Promise then callbacks](3.Promise-then-callbacks.md)               | Promise                                                           |                |
+| [3. Promise then callbacks](3.Promise-then-callbacks.md)               | Promise                                                           | ✅             |
 | [5. block scope](5.block-scope.md)                                     | Scope                                                             |                |
 | [6. Arrow Function](6.Arrow-Function.md)                               | `this`                                                            |                |
 | [7. Increment Operator](7.Increment-Operator.md)                       | Increment `++`                                                    |                |
