@@ -37,3 +37,4 @@
 | [33. implement TupleToString\<T\>](33.implement-TupleToString-T.md)                 | ✅             |
 | [34. implement Repeat<T, C>](34.implement-Repeat-T-C.md)                            |                |
 | [35. implement Filter<T, A>](35.implement-Filter-T-A.md)                            |                |
+| [36. implement LargerThan<A, B>](36.implement-LargerThan-A-B.md)                    | ✅             |
