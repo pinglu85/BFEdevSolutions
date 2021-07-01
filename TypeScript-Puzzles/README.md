@@ -39,3 +39,4 @@
 | [35. implement Filter<T, A>](35.implement-Filter-T-A.md)                            |                |
 | [36. implement LargerThan<A, B>](36.implement-LargerThan-A-B.md)                    | ✅             |
 | [37. implement SmallerThan<A, B>](37.implement-SmallerThan-A-B.md)                  |                |
+| [38. implement Add<A, B>](38.implement-Add-A-B.md)                                  | ✅             |
