@@ -7,7 +7,7 @@
 | [3. Promise then callbacks](3.Promise-then-callbacks.md)               | Promise                                                           | ✅             |
 | [4. Promise then callbacks II](4.Promise-then-callbacks-II.md)         | Promise                                                           | ✅             |
 | [5. block scope](5.block-scope.md)                                     | Scope                                                             |                |
-| [6. Arrow Function](6.Arrow-Function.md)                               | `this`                                                            |                |
+| [6. Arrow Function](6.Arrow-Function.md)                               | `this`                                                            | ✅             |
 | [7. Increment Operator](7.Increment-Operator.md)                       | Increment `++`                                                    |                |
 | [8. Implicit Coercion I](8.Implicit-Coercion-I.md)                     | Type coercion                                                     | ✅             |
 | [9. null and undefined](9.null-and-undefined.md)                       | `null` & `undefined`                                              | ✅             |
