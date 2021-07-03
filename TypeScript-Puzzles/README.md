@@ -41,3 +41,4 @@
 | [37. implement SmallerThan<A, B>](37.implement-SmallerThan-A-B.md)                  |                |
 | [38. implement Add<A, B>](38.implement-Add-A-B.md)                                  | ✅             |
 | [39. implement ToNumber\<T\>](39.implement-ToNumber-T.md)                           | ✅             |
+| [40. implement UnionToIntersection\<T\>](40.implement-UnionToIntersection-T.md)     | ✅             |
