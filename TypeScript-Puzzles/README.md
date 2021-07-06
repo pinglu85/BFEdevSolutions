@@ -42,3 +42,4 @@
 | [38. implement Add<A, B>](38.implement-Add-A-B.md)                                  | ✅             |
 | [39. implement ToNumber\<T\>](39.implement-ToNumber-T.md)                           | ✅             |
 | [40. implement UnionToIntersection\<T\>](40.implement-UnionToIntersection-T.md)     | ✅             |
+| [41. implement FindIndex<T, E>](41.implement-FindIndex-T-E.md)                      | ✅             |
