@@ -43,3 +43,4 @@
 | [39. implement ToNumber\<T\>](39.implement-ToNumber-T.md)                           | ✅             |
 | [40. implement UnionToIntersection\<T\>](40.implement-UnionToIntersection-T.md)     | ✅             |
 | [41. implement FindIndex<T, E>](41.implement-FindIndex-T-E.md)                      | ✅             |
+| [42. implement Equal<A, B>](42.implement-Equal-A-B.md)                              | ✅             |
