@@ -44,3 +44,4 @@
 | [40. implement UnionToIntersection\<T\>](40.implement-UnionToIntersection-T.md)     | ✅             |
 | [41. implement FindIndex<T, E>](41.implement-FindIndex-T-E.md)                      | ✅             |
 | [42. implement Equal<A, B>](42.implement-Equal-A-B.md)                              | ✅             |
+| [43. implement Trim\<T\>](43.implement-Trim-T.md)                                   | ✅             |
