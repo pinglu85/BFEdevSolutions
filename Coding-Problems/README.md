@@ -89,6 +89,7 @@
 | [86. Generate Fibonacci Number](86.Generate-Fibonacci-Number.md)                                                                                                   |                     |                |
 | [87. longest substring with unique characters](87.longest-substring-with-unique-characters.md)                                                                     | String              | ✅             |
 | [88. support negative Array index in JavaScript](88.support-negative-Array-index-in-JavaScript.md)                                                                 | Array               | ✅             |
+| [89. Next Right Sibling](89.Next-Right-Sibling.md)                                                                                                                 | DOM                 | ✅             |
 | [91. invert a binary tree](91.invert-a-binary-tree.md)                                                                                                             | Binary Tree         |                |
 | [96. count "1" in binary form](96.count-1-in-binary-form.md)                                                                                                       | Bitwise Operator    | ✅             |
 | [109. implement `Math.pow()`](109.implement-Math-pow.md)                                                                                                           |                     | ✅             |
