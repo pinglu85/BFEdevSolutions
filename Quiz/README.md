@@ -17,7 +17,7 @@
 | [13. Operator precedence](13.Operator-precedence.md)                   | Type coercion, Operator precedence                                | ✅             |
 | [14. Addition vs Unary Plus](14.Addition-vs-Unary-Plus.md)             | Type coercion, Unary plus `+`, Addition `+`                       | ✅             |
 | [15. instanceOf](15.instanceOf.md)                                     | `instanceof`                                                      | ✅             |
-| [16. parseInt](16.parseInt.md)                                         | `Array.prototype.map()`, `parseInt()`                             |                |
+| [16. parseInt](16.parseInt.md)                                         | `Array.prototype.map()`, `parseInt()`                             | ✅             |
 | [17. reduce](17.reduce.md)                                             | `Array.prototype.reduce()`                                        |                |
 | [18. Promise executor II](18.Promise-executor-II.md)                   | Promise                                                           |                |
 | [19. `this`](19.this.md)                                               | `this`                                                            |                |
