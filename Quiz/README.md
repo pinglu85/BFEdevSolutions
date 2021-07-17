@@ -19,7 +19,7 @@
 | [15. instanceOf](15.instanceOf.md)                                     | `instanceof`                                                      | ✅             |
 | [16. parseInt](16.parseInt.md)                                         | `Array.prototype.map()`, `parseInt()`                             | ✅             |
 | [17. reduce](17.reduce.md)                                             | `Array.prototype.reduce()`                                        |                |
-| [18. Promise executor II](18.Promise-executor-II.md)                   | Promise                                                           |                |
+| [18. Promise executor II](18.Promise-executor-II.md)                   | Promise                                                           | ✅             |
 | [19. `this`](19.this.md)                                               | `this`                                                            |                |
 | [20. name for Function expression](20.name-for-Function-expression.md) | Function expression                                               |                |
 | [22. min max](22.min-max.md)                                           | `Math.min()`, `Math.max()`                                        |                |
