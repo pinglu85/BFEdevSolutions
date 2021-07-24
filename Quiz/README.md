@@ -23,7 +23,7 @@
 | [19. `this`](19.this.md)                                               | `this`                                                            | ✅             |
 | [20. name for Function expression](20.name-for-Function-expression.md) | Function expression                                               |                |
 | [21. Array I](21.Array-I.md)                                           | Sparse array                                                      | ✅             |
-| [22. min max](22.min-max.md)                                           | `Math.min()`, `Math.max()`                                        |                |
+| [22. min max](22.min-max.md)                                           | `Math.min()`, `Math.max()`                                        | ✅             |
 | [23. Promise.all()](23.Promise-all.md)                                 | Promise                                                           |                |
 | [24. Equality & Sameness](24.Equality-Sameness.md)                     | Equality `==`, `Object.is()`                                      |                |
 | [25. zero](25.zero.md)                                                 | Math, `Object.is()`                                               | ✅             |
