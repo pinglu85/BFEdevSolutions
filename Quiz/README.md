@@ -25,7 +25,7 @@
 | [21. Array I](21.Array-I.md)                                           | Sparse array                                                      | ✅             |
 | [22. min max](22.min-max.md)                                           | `Math.min()`, `Math.max()`                                        | ✅             |
 | [23. Promise.all()](23.Promise-all.md)                                 | Promise                                                           |                |
-| [24. Equality & Sameness](24.Equality-Sameness.md)                     | Equality `==`, `Object.is()`                                      |                |
+| [24. Equality & Sameness](24.Equality-Sameness.md)                     | Equality `==`, `Object.is()`                                      | ✅             |
 | [25. zero](25.zero.md)                                                 | Math, `Object.is()`                                               | ✅             |
 | [26. true or false](26.true-or-false.md)                               | Truthy & falsy, Logical NOT `!`, `Boolean`                        |                |
 | [27. Hoisting I](27.Hoisting-I.md)                                     | Hoisting                                                          |                |
