@@ -32,7 +32,7 @@
 | [28. Hoisting II](28.Hoisting-II.md)                                   | Hoisting                                                          |                |
 | [29. Hoisting III](29.Hoisting-III.md)                                 | Hoisting                                                          | ✅             |
 | [30. Equal II](30.Equal-II.md)                                         | Equality `==`                                                     | ✅             |
-| [31. Math](31.Math.md)                                                 | Math                                                              | ✅             |
+| [31. Math](31.Math.md)                                                 | Math                                                              |                |
 | [32. Hoisting IIII](32.Hoisting-IIII.md)                               | Hoisting                                                          | ✅             |
 | [33. `this` II](33.this-II.md)                                         | `this`, Grouping operator `()`, Comma operator `,`                | ✅             |
 | [34. precedence](34.precedence.md)                                     | Operator precedence, Unary plus `+`, Addition `+`, Increment `++` | ✅             |
