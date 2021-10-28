@@ -8,4 +8,4 @@ Here I document solutions to problems that I solved.
 
 - [**TypeScript Puzzles**](/TypeScript-Puzzles/README.md)
 
-- [**CSS Problems**](/CSS/README.md)
+- [**CSS Problems**](/CSS-Problems/README.md)
