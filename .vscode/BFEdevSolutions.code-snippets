@@ -1,10 +1,10 @@
 {
-  "Coding Problems Contents Table Row Template": {
+  "Coding Problems Content Table Row Template": {
     "scope": "markdown",
     "prefix": "codingTableRow",
     "body": "|[${1:problem}](${2:file path})|${3:category}|${4:good to review} ✅|"
   },
-  "Coding Problems Template": {
+  "Coding Problem Template": {
     "scope": "markdown",
     "prefix": "coding",
     "body": [
@@ -29,7 +29,7 @@
       "${7:reference}"
     ]
   },
-  "Quiz Contents Table Row Template": {
+  "Quiz Content Table Row Template": {
     "scope": "markdown",
     "prefix": "quizTableRow",
     "body": "|[${1:quiz}](${2:file path})|${3:tags}|${4:good to review} ✅|"
@@ -59,14 +59,14 @@
       "${6:reference}"
     ]
   },
-  "TypeScript Puzzles Contents Table Row Template": {
+  "TypeScript Puzzles Content Table Row Template": {
     "scope": "markdown",
-    "prefix": "tspuzzleTableRow",
+    "prefix": "tsPuzzleTableRow",
     "body": "|[${1:puzzle}](${2:file path})|${3:good to review} ✅|"
   },
-  "TypeScript Puzzles Template": {
+  "TypeScript Puzzle Template": {
     "scope": "markdown",
-    "prefix": "tspuzzle",
+    "prefix": "tsPuzzle",
     "body": [
       "# ${1:title}\n",
       "### Problem\n",
@@ -77,6 +77,33 @@
       "#\n",
       "### Solution\n",
       "```ts",
+      "${4:solution}",
+      "```\n",
+      "### Explanation\n",
+      "${5:explanation}\n",
+      "#\n",
+      "### Reference\n",
+      "${6:reference}"
+    ]
+  },
+  "CSS Problems Content Table Row Template": {
+    "scope": "markdown",
+    "prefix": "cssProblemTableRow",
+    "body": "|[${1:problem}](${2:file path})|${3:good to review} ✅|"
+  },
+  "CSS Problem Template": {
+    "scope": "markdown",
+    "prefix": "cssProblem",
+    "body": [
+      "# ${1:title}\n",
+      "### Problem\n",
+      "${2:link}\n",
+      "#\n",
+      "### Problem Description\n",
+      "${3:description}\n",
+      "#\n",
+      "### Solution\n",
+      "```css",
       "${4:solution}",
       "```\n",
       "### Explanation\n",
