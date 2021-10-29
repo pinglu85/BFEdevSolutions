@@ -22,11 +22,11 @@ Please center the inner div vertically without changing their dimensions and col
 
 **1. Should be centered vertically**
 
-![result_1](result-1.png)
+![result 1](result-1.png)
 
 **2. even if container size changes**
 
-![result_2](result-2.png)
+![result 2](result-2.png)
 
 #
 
