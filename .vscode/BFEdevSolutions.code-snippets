@@ -112,5 +112,10 @@
       "### Reference\n",
       "${6:reference}"
     ]
+  },
+  "CSS Problem Result Image Template": {
+    "scope": "markdown",
+    "prefix": "cssProblemResultImage",
+    "body": "![result ${1:number}](result-${2:number}.png)"
   }
 }
