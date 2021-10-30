@@ -121,6 +121,6 @@
   "CSS Problem Result Image With Border Template": {
     "scope": "markdown",
     "prefix": "cssProblemResultImageWithBorder",
-    "body": ["|![result ${1:number}](result-${2:number}.png)|", "|--|"]
+    "body": "<kbd>![result ${1:number}](result-${2:number}.png)</kbd>"
   }
 }
