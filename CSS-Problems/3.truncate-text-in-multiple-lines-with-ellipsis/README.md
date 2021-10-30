@@ -12,19 +12,19 @@ Just like [2. truncate text in one line(with ellipsis)](https://bigfrontend.dev/
 
 **1. short text(1 line)**
 
-![result 1](result-1.png)
+<kbd>![result 1](result-1.png)</kbd>
 
 **2. short text (2 lines)**
 
-![result 2](result-2.png)
+<kbd>![result 2](result-2.png)</kbd>
 
 **3. 3 lines(no overflow)**
 
-![result 3](result-3.png)
+<kbd>![result 3](result-3.png)</kbd>
 
 **4. more than 3 lines**
 
-![result 4](result-4.png)
+<kbd>![result 4](result-4.png)</kbd>
 
 #
 
