@@ -71,3 +71,4 @@
 | [67. if II](67.if-II.md)                                               | Function expression                                               | ✅             |
 | [68. undefined](68.undefined.md)                                       | arguments                                                         |                |
 | [69. function](69.function.md)                                         | Hoisting                                                          |                |
+| [70. two-way generator](70.two-way-generator.md)                       | Generator                                                         | ✅             |
