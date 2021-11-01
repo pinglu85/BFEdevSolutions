@@ -7,3 +7,4 @@
 | [3. truncate text in multiple lines(with ellipsis)](3.truncate-text-in-multiple-lines-with-ellipsis/README.md) | ✅             |
 | [4. two-column layout](4.two-column-layout/README.md)                                                          | ✅             |
 | [5. modal with max height](5.modal-with-max-height/README.md)                                                  |                |
+| [6. different checkbox style](6.different-checkbox-style/README.md)                                            | ✅             |
