@@ -72,3 +72,4 @@
 | [68. undefined](68.undefined.md)                                       | arguments                                                         |                |
 | [69. function](69.function.md)                                         | Hoisting                                                          |                |
 | [70. two-way generator](70.two-way-generator.md)                       | Generator                                                         | ✅             |
+| [71. Array length](71.Array-length.md)                                 | `Array.prototype.length`                                          |                |
