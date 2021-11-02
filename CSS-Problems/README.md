@@ -8,3 +8,4 @@
 | [4. two-column layout](4.two-column-layout/README.md)                                                          | ✅             |
 | [5. modal with max height](5.modal-with-max-height/README.md)                                                  |                |
 | [6. different checkbox style](6.different-checkbox-style/README.md)                                            | ✅             |
+| [7. a row](7.a-row/README.md)                                                                                  |                |
