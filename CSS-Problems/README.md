@@ -9,3 +9,4 @@
 | [5. modal with max height](5.modal-with-max-height/README.md)                                                  |                |
 | [6. different checkbox style](6.different-checkbox-style/README.md)                                            | ✅             |
 | [7. a row](7.a-row/README.md)                                                                                  |                |
+| [8. Twitter's website layout](8.twitter-s-website-layout/README.md)                                            | ✅             |
