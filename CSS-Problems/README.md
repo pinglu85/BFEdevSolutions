@@ -11,3 +11,4 @@
 | [7. a row](7.a-row/README.md)                                                                                  |                |
 | [8. Twitter's website layout](8.twitter-s-website-layout/README.md)                                            | ✅             |
 | [9. multi-column text](9.multi-column-text/README.md)                                                          | ✅             |
+| [10. golden ratio rectangle](10.golden-ratio-rectangle/README.md)                                              |                |
