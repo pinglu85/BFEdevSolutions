@@ -74,3 +74,4 @@
 | [70. two-way generator](70.two-way-generator.md)                       | Generator                                                         | ✅             |
 | [71. Array length](71.Array-length.md)                                 | `Array.prototype.length`                                          |                |
 | [72. window name](72.window-name.md)                                   | `Window.name`                                                     |                |
+| [73. Typed Array length](73.Typed-Array-length.md)                     | Typed array                                                       |                |
