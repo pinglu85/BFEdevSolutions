@@ -89,7 +89,7 @@
   "CSS Problems Content Table Row Template": {
     "scope": "markdown",
     "prefix": "cssProblemTableRow",
-    "body": "|[${1:problem}](${2:file path})|${3:good to review} ✅|"
+    "body": "|[${1:problem}](${2:directory}/README.md)|${3:good to review} ✅|"
   },
   "CSS Problem Template": {
     "scope": "markdown",
