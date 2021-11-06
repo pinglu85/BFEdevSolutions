@@ -12,3 +12,4 @@
 | [8. Twitter's website layout](8.twitter-s-website-layout/README.md)                                            | ✅             |
 | [9. multi-column text](9.multi-column-text/README.md)                                                          | ✅             |
 | [10. golden ratio rectangle](10.golden-ratio-rectangle/README.md)                                              |                |
+| [11. fit the image](11.fit-the-image/README.md)                                                                | ✅             |
