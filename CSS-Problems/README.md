@@ -13,3 +13,4 @@
 | [9. multi-column text](9.multi-column-text/README.md)                                                          | ✅             |
 | [10. golden ratio rectangle](10.golden-ratio-rectangle/README.md)                                              |                |
 | [11. fit the image](11.fit-the-image/README.md)                                                                | ✅             |
+| [12. close button in CSS](12.close-button-in-CSS/README.md)                                                    | ✅             |
