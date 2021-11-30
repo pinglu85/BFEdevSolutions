@@ -10,7 +10,7 @@ https://bigfrontend.dev/css/fit-the-image
 
 Suppose we have following image of ratio `1:4`
 
-![image](/image.svg)
+![image](image.svg)
 
 Now in an HTML structure like below, please fit the image to the container div, just as if it is used as container's background-image with `background-size:cover`.
 
