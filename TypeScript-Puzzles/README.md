@@ -45,3 +45,4 @@
 | [41. implement FindIndex<T, E>](41.implement-FindIndex-T-E.md)                      | ✅             |
 | [42. implement Equal<A, B>](42.implement-Equal-A-B.md)                              | ✅             |
 | [43. implement Trim\<T\>](43.implement-Trim-T.md)                                   | ✅             |
+| [44. ReplaceAll<S, F, T>](44.ReplaceAll.md)                                         | ✅             |
