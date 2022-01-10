@@ -46,3 +46,4 @@
 | [42. implement Equal<A, B>](42.implement-Equal-A-B.md)                              | ✅             |
 | [43. implement Trim\<T\>](43.implement-Trim-T.md)                                   | ✅             |
 | [44. ReplaceAll<S, F, T>](44.ReplaceAll.md)                                         | ✅             |
+| [45. implement Slice<A, S, E>](45.implement-Slice.md)                               | ✅             |
