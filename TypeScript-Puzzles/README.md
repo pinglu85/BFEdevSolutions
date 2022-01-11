@@ -47,3 +47,4 @@
 | [43. implement Trim\<T\>](43.implement-Trim-T.md)                                   | ✅             |
 | [44. ReplaceAll<S, F, T>](44.ReplaceAll.md)                                         | ✅             |
 | [45. implement Slice<A, S, E>](45.implement-Slice.md)                               | ✅             |
+| [46. implement Subtract<A, B>](46.implement-Subtract.md)                            | ✅             |
