@@ -16,3 +16,4 @@
 | [12. close button in CSS](12.close-button-in-CSS/README.md)                                                    | ✅             |
 | [13. list numbering](13.list-numbering/README.md)                                                              | ✅             |
 | [14. 0.5px border](14.hairline-border/README.md)                                                               |                |
+| [16. flex layout 1](16.flex-layout-1/README.md)                                                                | ✅             |
