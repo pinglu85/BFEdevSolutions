@@ -56,3 +56,23 @@ HTML structure is
   flex: 1 1 100px;
 }
 ```
+
+### Explanation
+
+`flex` is the shorthand for `flex-glow`, `flex-shrink` and `flex-basis` combined.
+
+The `flex-grow` property specifies how much of the available space in the flex container a flex item should take up. If all flex items have `flex-grow` set to `1`, the remaining space in the flex container will be assigned equally to all children.
+
+The `flex-shrink` property specifies how flex items will shrink if the size of all flex items is larger than the flex container.
+
+The `flex-basis` property sets the initial main size of a flex item. We set the `flex-basis` property on all the items to `100px`, meaning all the items will start at `100px`.
+
+#
+
+### Reference
+
+- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+- [flex-basis](https://developer.mozilla.org/en-US/docs/Web/CSS/flex-basis)
+
+- [CSS width vs flex-basis](https://mastery.games/post/the-difference-between-width-and-flex-basis/)
