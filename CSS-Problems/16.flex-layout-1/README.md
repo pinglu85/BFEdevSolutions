@@ -53,6 +53,6 @@ HTML structure is
   background-color: #7aa4f0;
   height: 50px;
   margin: 5px;
-  flex: 100px 1 1;
+  flex: 1 1 100px;
 }
 ```
