@@ -77,3 +77,4 @@
 | [73. Typed Array length](73.Typed-Array-length.md)                     | Typed array                                                       |                |
 | [74. meaningless calculation](74.meaningless-calculation.md)           | Type coercion, Bitwise operator                                   |                |
 | [75. const](75.const.md)                                               | `var`, `const`                                                    | ✅             |
+| [76. parseInt 2](76.parseInt-2.md)                                     | `parseInt()`                                                      | ✅             |
