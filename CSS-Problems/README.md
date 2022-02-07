@@ -16,6 +16,7 @@
 | [12. close button in CSS](12.close-button-in-CSS/README.md)                                                    | ✅             |
 | [13. list numbering](13.list-numbering/README.md)                                                              | ✅             |
 | [14. 0.5px border](14.hairline-border/README.md)                                                               |                |
+| [15. doughnut chart](15.doughnut-chart/README.md)                                                              | ✅             |
 | [16. flex layout 1](16.flex-layout-1/README.md)                                                                | ✅             |
 | [17. fragment style](17.fragment-style/README.md)                                                              | ✅             |
 | [18. color gradients on text](18.color-gradients-on-text/README.md)                                            |                |
