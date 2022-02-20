@@ -20,3 +20,4 @@
 | [16. flex layout 1](16.flex-layout-1/README.md)                                                                | ✅             |
 | [17. fragment style](17.fragment-style/README.md)                                                              | ✅             |
 | [18. color gradients on text](18.color-gradients-on-text/README.md)                                            |                |
+| [19. color of input elements](19.color-of-input-elements/README.md)                                            |                |
