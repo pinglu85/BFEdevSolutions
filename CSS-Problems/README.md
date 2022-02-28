@@ -21,3 +21,4 @@
 | [17. fragment style](17.fragment-style/README.md)                                                              | ✅             |
 | [18. color gradients on text](18.color-gradients-on-text/README.md)                                            |                |
 | [19. color of input elements](19.color-of-input-elements/README.md)                                            |                |
+| [20. sticky footer](20.sticky-footer/README.md)                                                                | ✅             |
