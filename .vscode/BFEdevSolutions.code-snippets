@@ -29,6 +29,33 @@
       "${7:reference}"
     ]
   },
+  "React Problems Content Table Row Template": {
+    "scope": "markdown",
+    "prefix": "reactTableRow",
+    "body": "|[${1:problem}](${2:file path})|${3:category}|${4:good to review} ✅|"
+  },
+  "React Problem Template": {
+    "scope": "markdown",
+    "prefix": "react",
+    "body": [
+      "# ${1:title}\n",
+      "### Problem\n",
+      "${2:link}\n",
+      "#\n",
+      "### Problem Description\n",
+      "${3:description}\n",
+      "#\n",
+      "### Solution\n",
+      "```tsx",
+      "${4:solution}",
+      "```\n",
+      "### Explanation\n",
+      "${5:explanation}\n",
+      "#\n",
+      "### Reference\n",
+      "${6:reference}"
+    ]
+  },
   "Quiz Content Table Row Template": {
     "scope": "markdown",
     "prefix": "quizTableRow",
