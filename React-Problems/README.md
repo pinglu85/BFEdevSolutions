@@ -7,3 +7,4 @@
 | [3. useIsFirstRender()](3.useIsFirstRender.md)         | Hooks    | ✅             |
 | [4. useSWR() I](4.useSWR-I.md)                         | Hooks    |                |
 | [5. usePrevious()](5.usePrevious.md)                   | Hooks    |                |
+| [6. useHover()](6.useHover.md)                         | Hooks    | ✅             |
