@@ -60,7 +60,7 @@ The `place-items` property is a shorthand for `align-items` and `justify-items` 
 
 ### Reference
 
-- [Make grid container fill columns not rows](https://stackoverflow.com/questions/44092529/make-grid-container-fill-columns-not-rows)
+- [Auto-placement in CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Auto-placement_in_CSS_Grid_Layout)
 
 - [grid-auto-flow](https://developer.mozilla.org/en-US/docs/Web/CSS/grid-auto-flow)
 
