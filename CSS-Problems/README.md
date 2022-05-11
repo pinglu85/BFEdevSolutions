@@ -24,3 +24,4 @@
 | [20. sticky footer](20.sticky-footer/README.md)                                                                | ✅             |
 | [21. Holy Grail Layout](21.holy-grail-layout/README.md)                                                        | ✅             |
 | [22. Grid Layout 1](22.grid-layout-1/README.md)                                                                | ✅             |
+| [23. Grid Layout 2](23.grid-layout-2/README.md)                                                                | ✅             |
