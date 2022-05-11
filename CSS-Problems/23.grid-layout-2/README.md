@@ -58,7 +58,7 @@ Layout the items in a grid so that:
 
 ### Explanation
 
-When using the `auto-fill` keyword in `repeat()`, the browser will fill the row with as many columns as it can fit.
+We use the `auto-fill` keyword for `repeat()` to make the browser fill the row with as many columns as it can fit.
 
 #
 
