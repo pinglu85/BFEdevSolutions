@@ -73,7 +73,7 @@ We probably think that we could make use of the equations in the problem stateme
 fontSize = (16px + 32px) / ((200px + 400px) / viewportWidth)
 ```
 
-Then we could use it for `calc()`:
+Then we could use this equation for `calc()`:
 
 ```css
 .title {
