@@ -67,13 +67,13 @@ Create a heading of fluid font size.
 
 ### Explanation
 
-We probably think that we could make use of the equations in the problem statement to scale the font size linearly when viewport width is between 200px and 400px. Combining the two equations, we can get:
+We probably think that we could make use of the equations in the problem statement to scale the font size linearly. Combining the two equations, we can get:
 
 ```
 fontSize = (16px + 32px) / ((200px + 400px) / viewportWidth)
 ```
 
-Then we could use this equation for `calc()`:
+Then we could use it for `calc()`:
 
 ```css
 .title {
@@ -81,7 +81,7 @@ Then we could use this equation for `calc()`:
 }
 ```
 
-However, in `calc()` [division (/) requires the right-hand side to be unitless](https://developer.mozilla.org/en-US/docs/Web/CSS/calc#syntax). Thus we need a different formula for the font size.
+However, in `calc()` [division (/) requires the right-hand side to be unitless](https://developer.mozilla.org/en-US/docs/Web/CSS/calc#syntax). Therefore we need a different formula.
 
 Let's pair the viewport width and the font size together and plot them on an X and Y coordinate system, where the X axis indicates the viewport width and the Y axis indicates the font size:
 
