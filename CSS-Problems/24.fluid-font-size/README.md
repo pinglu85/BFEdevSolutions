@@ -128,7 +128,7 @@ So our solution is:
 }
 ```
 
-We can get rid of the media queries by using the `clamp()` function, which clamps a value between an upper and lower bound. Hence, the final solution is:
+In fact, we don't need the media queries at all. We can just use the `clamp()` function, which clamps a value between an upper and lower bound:
 
 ```css
 .title {
