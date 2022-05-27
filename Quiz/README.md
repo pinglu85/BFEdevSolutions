@@ -67,14 +67,14 @@
 | [63. in](63.in.md)                                                     | `in` operator                                                     |                |
 | [64. reference type](64.reference-type.md)                             | `this`, Grouping operator `()`                                    |                |
 | [65. Function name](65.Function-name.md)                               | Function expression                                               |                |
-| [66. if](66.if.md)                                                     | Hoisting, Conditionally created functions                         |                |
-| [67. if II](67.if-II.md)                                               | Function expression                                               | ✅             |
-| [68. undefined](68.undefined.md)                                       | arguments                                                         |                |
-| [69. function](69.function.md)                                         | Hoisting                                                          |                |
-| [70. two-way generator](70.two-way-generator.md)                       | Generator                                                         | ✅             |
-| [71. Array length](71.Array-length.md)                                 | `Array.prototype.length`                                          |                |
-| [72. window name](72.window-name.md)                                   | `Window.name`                                                     |                |
-| [73. Typed Array length](73.Typed-Array-length.md)                     | Typed array                                                       |                |
-| [74. meaningless calculation](74.meaningless-calculation.md)           | Type coercion, Bitwise operator                                   |                |
-| [75. const](75.const.md)                                               | `var`, `const`                                                    | ✅             |
-| [76. parseInt 2](76.parseInt-2.md)                                     | `parseInt()`                                                      | ✅             |
+| [67. if](67.if.md)                                                     | Hoisting, Conditionally created functions                         |                |
+| [68. if II](68.if-II.md)                                               | Function expression                                               | ✅             |
+| [69. undefined](69.undefined.md)                                       | arguments                                                         |                |
+| [70. function](70.function.md)                                         | Hoisting                                                          |                |
+| [71. two-way generator](71.two-way-generator.md)                       | Generator                                                         | ✅             |
+| [72. Array length](72.Array-length.md)                                 | `Array.prototype.length`                                          |                |
+| [73. window name](73.window-name.md)                                   | `Window.name`                                                     |                |
+| [74. Typed Array length](74.Typed-Array-length.md)                     | Typed array                                                       |                |
+| [75. meaningless calculation](75.meaningless-calculation.md)           | Type coercion, Bitwise operator                                   |                |
+| [76. const](76.const.md)                                               | `var`, `const`                                                    | ✅             |
+| [77. parseInt 2](77.parseInt-2.md)                                     | `parseInt()`                                                      | ✅             |
